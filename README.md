@@ -6,7 +6,6 @@
     I am a highly motivated and hardworking individual who reading his bachelors specializing in Software Engineering at Sri Lanka Institute of Information Technology (SLIIT). As a tech enthusiast, I am always eager to adopt and learn new trends and technologies and willing to work with leading industry professionals while improving my skills and knowledge.
 
 <br>
-<br>
 
 <!-- <div align="center" style="font-size: 16px;">
 [📧 Email Me](mailto:banuka1216@gmail.com)
