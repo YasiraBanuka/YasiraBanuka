@@ -7,10 +7,11 @@
 
 <br>
 <br>
-<div align="center" style="font-size: 16px;">
 
+<!-- <div align="center" style="font-size: 16px;">
 [📧 Email Me](mailto:banuka1216@gmail.com)
-</div>
+</div> -->
+
 </p>    
 <br>
 <!-- Languages and Tools -->
