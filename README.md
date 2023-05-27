@@ -123,22 +123,22 @@
 ---
 <!-- Begin Footer -->
 <div class="footer" align="center" style="margin:15px;">
-    <a href="linkedin.com/in/yasira-banuka" target="_blank">
+    <a href="linkedin.com/in/yasira-banuka" target="">
         <img  style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/38882362-bc4b-4470-b5c7-e0eb1b9305bb" alt="linkedin" width="40px"/>
     </a>
     <a href="about.me/yasirabanuka" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/9ed800c6-9866-43e3-9955-92ce2a0b77ba" alt="web" width="40px"/>
     </a>
-    <a href="mailto:banuka1216@gmail.com" target="_blank">
+    <a href="mailto:banuka1216@gmail.com" target="">
         <img  style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/6caac155-1089-48f2-947d-0966771f735b" alt="mail" width="40px"/>
     </a>
-    <a href="medium.com/@YasiraBanuka" target="_blank">
+    <a href="medium.com/@YasiraBanuka" target="">
         <img style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/e697e195-0d78-488d-a118-eea21766b224" alt="medium" width="40px"/>
     </a>
-    <a href="facebook.com/yasira.banuka" target="_blank">
+    <a href="facebook.com/yasira.banuka" target="">
         <img style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/7359cb5c-2348-43d8-bebc-9f5e3e03af6f" alt="facebook" width="40px"/>
     </a>
-    <a href="instagram.com/mr_banuka" target="_blank">
+    <a href="instagram.com/mr_banuka" target="">
         <img style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/a2ab5475-0b16-407f-866a-bca051f5b584" alt="instagram" width="40px"/>
     </a>
 </div>
