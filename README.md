@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Yasira Banuka </h1>
 
-![github_cover_banner](https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/4978c3c6-e67d-4356-97e4-6713550334a2)
+![github_cover_banner](https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/4978c3c6-e67d-4356-97e4-6713550334a2) 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a highly motivated and hardworking individual who reading his bachelors specializing in Software Engineering at Sri Lanka Institute of Information Technology (SLIIT). As a tech enthusiast, I am always eager to adopt and learn new trends and technologies and willing to work with leading industry professionals while improving my skills and knowledge.
@@ -9,7 +9,7 @@
 
 <!-- <div align="center" style="font-size: 16px;">
 [📧 Email Me](mailto:banuka1216@gmail.com)
-</div> -->
+</div> 
 
 </p>    
 <br>
@@ -123,22 +123,22 @@
 ---
 <!-- Begin Footer -->
 <div class="footer" align="center" style="margin:15px;">
-    <a href="linkedin.com/in/yasira-banuka" target="">
+    <a href="linkedin.com/in/yasira-banuka" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/38882362-bc4b-4470-b5c7-e0eb1b9305bb" alt="linkedin" width="40px"/>
     </a>
-    <a href="about.me/yasirabanuka" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/9ed800c6-9866-43e3-9955-92ce2a0b77ba" alt="web" width="40px"/>
+    <a href="https://yasirabanuka.web.app/" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/9ed800c6-9866-43e3-9955-92ce2a0b77ba" alt="web" width="40px"/>
     </a>
-    <a href="mailto:banuka1216@gmail.com" target="">
+    <a href="mailto:banuka1216@gmail.com" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/6caac155-1089-48f2-947d-0966771f735b" alt="mail" width="40px"/>
     </a>
-    <a href="medium.com/@YasiraBanuka" target="">
+    <a href="medium.com/@YasiraBanuka" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/e697e195-0d78-488d-a118-eea21766b224" alt="medium" width="40px"/>
     </a>
-    <a href="facebook.com/yasira.banuka" target="">
+    <a href="facebook.com/yasira.banuka" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/7359cb5c-2348-43d8-bebc-9f5e3e03af6f" alt="facebook" width="40px"/>
     </a>
-    <a href="instagram.com/mr_banuka" target="">
+    <a href="instagram.com/mr_banuka" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/a2ab5475-0b16-407f-866a-bca051f5b584" alt="instagram" width="40px"/>
     </a>
 </div>
