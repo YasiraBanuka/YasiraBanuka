@@ -1,11 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Yasira Banuka </h1>
 
-![github_cover_banner]()
-
-
 ![Black Minimalist Corporate Professional Profile LinkedIn Banner](https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/b47e530f-2558-4c31-81ba-b38423af9a4c)
-
- 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a highly motivated and hardworking individual who reading his bachelor's specializing in Software Engineering at Sri Lanka Institute of Information Technology (SLIIT). As a tech enthusiast, I am always eager to adopt and learn new trends and technologies and willing to work with leading industry professionals while improving my skills and knowledge.
