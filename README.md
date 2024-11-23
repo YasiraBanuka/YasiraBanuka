@@ -124,7 +124,7 @@
     <a href="https://www.linkedin.com/in/yasira-banuka/" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/38882362-bc4b-4470-b5c7-e0eb1b9305bb" alt="linkedin" width="40px"/>
     </a>
-    <a href="https://yasirabanuka.web.app/" target="_blank">
+    <a href="https://yasirabanuka.me/" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://github.com/YasiraBanuka/YasiraBanuka/assets/111946114/9ed800c6-9866-43e3-9955-92ce2a0b77ba" alt="web" width="40px"/>
     </a>
     <a href="mailto:banuka1216@gmail.com" target="_blank">
